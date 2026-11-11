@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5f0ff"/>
+      <stop offset="100%" stop-color="#ece4f8"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff9c4"/>
+      <stop offset="100%" stop-color="#fff176" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg3)" rx="20"/>
+  <!-- Base -->
+  <ellipse cx="200" cy="340" rx="80" ry="15" fill="#2d2d2d"/>
+  <rect x="185" y="180" width="30" height="165" rx="4" fill="#3d3d3d"/>
+  <!-- Lamp head -->
+  <path d="M130 140 Q130 100 200 80 Q270 100 270 140 L260 180 L140 180 Z" fill="#4a4a4a"/>
+  <path d="M145 170 Q145 140 200 125 Q255 140 255 170" fill="#555"/>
+  <!-- Light glow -->
+  <ellipse cx="200" cy="210" rx="90" ry="40" fill="url(#glow)" opacity="0.5"/>
+  <!-- LED strips -->
+  <line x1="160" y1="175" x2="240" y2="175" stroke="#fff9c4" stroke-width="3" opacity="0.8"/>
+  <line x1="165" y1="170" x2="235" y2="170" stroke="#fff9c4" stroke-width="2" opacity="0.5"/>
+  <!-- Button -->
+  <circle cx="200" cy="320" r="6" fill="#555" stroke="#666" stroke-width="1"/>
+  <text x="200" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">LED Desk Lamp</text>
+</svg>
+

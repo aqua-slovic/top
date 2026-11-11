@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg12" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e8f5e9"/>
+      <stop offset="100%" stop-color="#c8e6c9"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg12)" rx="20"/>
+  <!-- Soap bars arrangement -->
+  <!-- Bar 1 (back left) -->
+  <g transform="translate(120, 140)">
+    <rect x="0" y="0" width="75" height="50" rx="8" fill="#66bb6a" stroke="#43a047" stroke-width="1"/>
+    <rect x="5" y="5" width="65" height="40" rx="6" fill="#81c784"/>
+    <text x="37" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2e7d32">SOAP</text>
+  </g>
+  <!-- Bar 2 (back right) -->
+  <g transform="translate(210, 140)">
+    <rect x="0" y="0" width="75" height="50" rx="8" fill="#42a5f5" stroke="#1e88e5" stroke-width="1"/>
+    <rect x="5" y="5" width="65" height="40" rx="6" fill="#64b5f6"/>
+    <text x="37" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1565c0">SOAP</text>
+  </g>
+  <!-- Bar 3 (middle left) -->
+  <g transform="translate(105, 195)">
+    <rect x="0" y="0" width="75" height="50" rx="8" fill="#fff176" stroke="#fdd835" stroke-width="1"/>
+    <rect x="5" y="5" width="65" height="40" rx="6" fill="#fff59d"/>
+    <text x="37" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f57f17">SOAP</text>
+  </g>
+  <!-- Bar 4 (middle right) -->
+  <g transform="translate(225, 195)">
+    <rect x="0" y="0" width="75" height="50" rx="8" fill="#ef9a9a" stroke="#ef5350" stroke-width="1"/>
+    <rect x="5" y="5" width="65" height="40" rx="6" fill="#ef9a9a"/>
+    <text x="37" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#c62828">SOAP</text>
+  </g>
+  <!-- Bar 5 (front left) -->
+  <g transform="translate(120, 250)">
+    <rect x="0" y="0" width="75" height="50" rx="8" fill="#ce93d8" stroke="#ab47bc" stroke-width="1"/>
+    <rect x="5" y="5" width="65" height="40" rx="6" fill="#e1bee7"/>
+    <text x="37" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7b1fa2">SOAP</text>
+  </g>
+  <!-- Bar 6 (front right) -->
+  <g transform="translate(210, 250)">
+    <rect x="0" y="0" width="75" height="50" rx="8" fill="#80cbc4" stroke="#26a69a" stroke-width="1"/>
+    <rect x="5" y="5" width="65" height="40" rx="6" fill="#b2dfdb"/>
+    <text x="37" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#00695c">SOAP</text>
+  </g>
+  <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#388e3c">Pack of 6</text>
+  <text x="200" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">Bar Soap (6 Pack)</text>
+</svg>
+

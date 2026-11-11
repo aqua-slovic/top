@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg9" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fffde7"/>
+      <stop offset="100%" stop-color="#fff9c4"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg9)" rx="20"/>
+  <!-- Bag body -->
+  <path d="M100 130 L90 320 Q90 340 110 340 L290 340 Q310 340 310 320 L300 130 Z" fill="#f5f5dc" stroke="#d4c89a" stroke-width="2"/>
+  <!-- Bag top fold -->
+  <path d="M100 130 Q200 115 300 130" fill="#ebe5c7" stroke="#d4c89a" stroke-width="2"/>
+  <!-- Label -->
+  <rect x="145" y="180" width="110" height="80" rx="5" fill="#fff" stroke="#d4c89a" stroke-width="1"/>
+  <text x="200" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#8B7355">PREMIUM</text>
+  <text x="200" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#5d4037">MAIZE FLOUR</text>
+  <text x="200" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ff8f00">25 kg</text>
+  <!-- Grain dots -->
+  <circle cx="140" cy="300" r="3" fill="#d4c89a" opacity="0.6"/>
+  <circle cx="160" cy="310" r="2" fill="#d4c89a" opacity="0.6"/>
+  <circle cx="250" cy="295" r="3" fill="#d4c89a" opacity="0.6"/>
+  <circle cx="230" cy="315" r="2" fill="#d4c89a" opacity="0.6"/>
+  <!-- Stitching at top -->
+  <line x1="110" y1="140" x2="290" y2="140" stroke="#c8b88a" stroke-width="1" stroke-dasharray="6,4"/>
+  <text x="200" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">Maize Flour 25kg</text>
+</svg>
+

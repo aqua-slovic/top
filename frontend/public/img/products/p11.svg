@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg11" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fafafa"/>
+      <stop offset="100%" stop-color="#f0ebe4"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg11)" rx="20"/>
+  <!-- Bag body -->
+  <path d="M110 110 L100 310 Q100 330 120 330 L280 330 Q300 330 300 310 L290 110 Z" fill="#fff" stroke="#e0d5c0" stroke-width="2"/>
+  <!-- Clear window showing rice -->
+  <rect x="140" y="170" width="120" height="100" rx="5" fill="#fafafa" stroke="#e0d5c0" stroke-width="1"/>
+  <!-- Rice grains -->
+  <g fill="#f5f0e0" stroke="#d4c89a" stroke-width="0.5">
+    <ellipse cx="165" cy="195" rx="8" ry="3" transform="rotate(-20,165,195)"/>
+    <ellipse cx="185" cy="190" rx="8" ry="3" transform="rotate(10,185,190)"/>
+    <ellipse cx="205" cy="200" rx="8" ry="3" transform="rotate(-15,205,200)"/>
+    <ellipse cx="225" cy="192" rx="8" ry="3" transform="rotate(5,225,192)"/>
+    <ellipse cx="175" cy="215" rx="8" ry="3" transform="rotate(15,175,215)"/>
+    <ellipse cx="195" cy="220" rx="8" ry="3" transform="rotate(-10,195,220)"/>
+    <ellipse cx="215" cy="212" rx="8" ry="3" transform="rotate(20,215,212)"/>
+    <ellipse cx="235" cy="218" rx="8" ry="3" transform="rotate(-5,235,218)"/>
+    <ellipse cx="160" cy="240" rx="8" ry="3" transform="rotate(8,160,240)"/>
+    <ellipse cx="180" cy="245" rx="8" ry="3" transform="rotate(-12,180,245)"/>
+    <ellipse cx="200" cy="248" rx="8" ry="3" transform="rotate(18,200,248)"/>
+    <ellipse cx="220" cy="242" rx="8" ry="3" transform="rotate(-8,220,242)"/>
+    <ellipse cx="240" cy="250" rx="8" ry="3" transform="rotate(12,240,250)"/>
+  </g>
+  <!-- Label text -->
+  <text x="200" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#5d4037">LONG GRAIN</text>
+  <text x="200" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#8B7355">RICE</text>
+  <text x="200" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#ff8f00">5 kg</text>
+  <text x="200" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">Rice 5kg</text>
+</svg>
+

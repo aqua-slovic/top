@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e3f2fd"/>
+      <stop offset="100%" stop-color="#bbdefb"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg6)" rx="20"/>
+  <!-- T-shirt body -->
+  <path d="M130 140 L130 310 Q130 320 140 320 L260 320 Q270 320 270 310 L270 140" fill="#2196f3" stroke="#1976d2" stroke-width="2"/>
+  <!-- Sleeves -->
+  <path d="M130 140 L80 170 L80 210 L130 195" fill="#2196f3" stroke="#1976d2" stroke-width="2"/>
+  <path d="M270 140 L320 170 L320 210 L270 195" fill="#2196f3" stroke="#1976d2" stroke-width="2"/>
+  <!-- Collar -->
+  <path d="M160 115 Q200 155 240 115" fill="#e3f2fd" stroke="#1976d2" stroke-width="2"/>
+  <!-- Shoulder lines -->
+  <line x1="130" y1="140" x2="160" y2="115" stroke="#1976d2" stroke-width="2"/>
+  <line x1="270" y1="140" x2="240" y2="115" stroke="#1976d2" stroke-width="2"/>
+  <!-- Fabric texture lines -->
+  <line x1="160" y1="200" x2="240" y2="200" stroke="#1e88e5" stroke-width="0.5" opacity="0.3"/>
+  <line x1="160" y1="230" x2="240" y2="230" stroke="#1e88e5" stroke-width="0.5" opacity="0.3"/>
+  <line x1="160" y1="260" x2="240" y2="260" stroke="#1e88e5" stroke-width="0.5" opacity="0.3"/>
+  <text x="200" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">Cotton T-Shirt</text>
+</svg>
+

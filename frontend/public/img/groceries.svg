@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#eef2f7"/>
+  <text x="150" y="150" font-size="96" text-anchor="middle" dominant-baseline="middle">🛒</text>
+  <text x="150" y="235" font-size="16" fill="#565959" text-anchor="middle" font-family="Arial, sans-serif">Groceries</text>
+</svg>
